@@ -1,0 +1,137 @@
+
+html{
+  background-color:rgba(255, 0, 0, 0.2);;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.backto{
+  text-align: left;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  background-color: rgba(255, 0, 0, 0.2);
+  border-radius: 30px;
+  margin-top: 40px;
+  padding: 5px;
+  margin: 10px;
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+.textomoss{
+
+    color: rgb(87, 11, 48);
+    font-size: 25px;    
+    line-height: 1,5;
+    letter-spacing: 1px;
+    padding-left: 220px;
+    padding-right: 200px;
+    font-family: 'Quicksand', sans-serif;
+  
+}
+  body {
+    width: 1200px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 0 20px 20px 20px;
+    font-family: 'Quicksand', sans-serif;
+    
+  }
+
+h1{
+  color:rgb(124, 86, 93);
+  padding-left:100px ;
+  padding-right: 150px;
+  font-size: 40px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+  color: rgb(87, 11, 48);
+  padding-left:510px ;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 35px;
+}
+
+h3 {
+  color:rgb(1, 0, 77);
+  padding-left: 75px;
+  font-size: 35px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+  .textomtakk
+  {
+    margin: 50px auto;
+    color:rgb(1, 0, 77);
+    font-size: 30px;   
+
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+    border-radius: 20px;
+    background: rgb(255, 255, 255);
+     width: 600px;
+    border: 40px solid rgba(186, 219, 250, 0.678);
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+.hyperisland{
+  color: rgb(129, 41, 70);
+  padding-left: 400px;
+  padding-right: 350px;
+  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+  img {
+  width: 640px;
+
+margin: 50px auto;
+  }
+
+  .logos{
+    text-align: center;
+    padding-left: 100px;
+  }
+
+  .bildvi{
+    text-align: center;
+  }
+
+  .play{
+    text-align: center;
+    
+  
+  
+  }
+
+  .ab2{
+    text-align: center;
+  }
+
+.contactus{
+  font-size: 35px;
+  color: rgb(1, 0, 68);
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.fotonpaoss{
+ 
+font-size: 25px;
+color:rgb(1, 0, 77);
+text-align: center;
+
+}
+
+.linkmail{
+  text-decoration: none;
+  color: black;
+}
+
+.linkmail:hover{
+  color: blue;
+}

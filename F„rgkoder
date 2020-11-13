@@ -1,0 +1,19 @@
+#F09D9D
+röd
+#C8C3FF
+lila
+#9DF0E1
+blå
+#FFBE99
+orange 
+
+
+<h5>
+<a href="https://www.spsm.se/" target="_blank">Read more about Signs as Support here!</a>
+</h5>
+
+border: 5px solid rgb(255, 255, 255);
+  }
+
+  img {
+    width: 700px;
